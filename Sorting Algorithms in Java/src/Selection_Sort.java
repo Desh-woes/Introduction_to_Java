@@ -15,7 +15,7 @@ public class Selection_Sort {
     }
 
     // Function to help with sorting our array
-    public static int[] sort_array(int[] arr) {
+    public static void sort_array(int[] arr) {
 
         // Outer loop to go through every element in position i
         for (int i = 0; i < arr.length-1; i++){
@@ -38,7 +38,7 @@ public class Selection_Sort {
             }
         }
         // Return the sorted array
-        return arr;
+//        return arr;
     }
 
 
