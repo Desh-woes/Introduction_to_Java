@@ -17,7 +17,7 @@ public class Bubble_sort {
     }
 
     // Function that helps us with our sorting
-    public static int[] sort_array(int[] arr) {
+    public static void sort_array(int[] arr) {
 
         // By default, our array is not sorted
         boolean array_sorted = false;
@@ -48,7 +48,7 @@ public class Bubble_sort {
 
         }
         // If all elements have been sorted, the while loop ends and returns our sorted array.
-        return arr;
+//        return arr;
     }
 
 
