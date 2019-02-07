@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Data types/Abstract Data types.iml" filepath="$PROJECT_DIR$/Abstract Data types/Abstract Data types.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class_examples.iml" filepath="$PROJECT_DIR$/Class_examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms in Java/Sorting Algorithms in Java.iml" filepath="$PROJECT_DIR$/Sorting Algorithms in Java/Sorting Algorithms in Java.iml" />
     </modules>
