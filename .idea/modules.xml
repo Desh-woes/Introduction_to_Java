@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract Data types/Abstract Data types.iml" filepath="$PROJECT_DIR$/Abstract Data types/Abstract Data types.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class_examples.iml" filepath="$PROJECT_DIR$/Class_examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms in Java/Sorting Algorithms in Java.iml" filepath="$PROJECT_DIR$/Sorting Algorithms in Java/Sorting Algorithms in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java fx/java fx.iml" filepath="$PROJECT_DIR$/java fx/java fx.iml" />
     </modules>
   </component>
 </project>
